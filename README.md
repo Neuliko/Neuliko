@@ -3,6 +3,8 @@
   <h1>👋 Hi, Welcome <strong>To Seth's Allies</strong></h1>
   <h3>Software Engineer • Open-Source Enthusiast • Game Developer</h3>
 
+  [![IMG_20250909_010357_230.jpg](https://i.postimg.cc/DZLwg7V4/IMG_20250909_010357_230.jpg)](https://postimg.cc/S2Q4QFxm)
+
   <!-- SOCIAL BUTTONS -->
   <p>
     <a href="https://github.com/sethsallies">
