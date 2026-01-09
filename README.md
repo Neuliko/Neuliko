@@ -16,7 +16,7 @@
     <a href="https://x.com/sethsallies.com">
       <img src="https://img.shields.io/badge/X-My%20Profile-00ff22?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://seth.spook.bio">
+    <a href="https://sethsallies.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Website-0086ff?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
