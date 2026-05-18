@@ -13,10 +13,10 @@
     <a href="https://github.com/alliedseth">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://x.com/sethsallies.com">
+    <a href="https://x.com/sethsallies">
       <img src="https://img.shields.io/badge/X-My%20Profile-00ff22?style=for-the-badge&logo=x&logoColor=white" />
     </a>
-    <a href="https://sethsallies.vercel.app">
+    <a href="https://sethsallies.lovable.app">
       <img src="https://img.shields.io/badge/Portfolio-Website-0086ff?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
   </p>
@@ -68,7 +68,7 @@ I'm a developer trying to building **efficient backend systems**, **polished fro
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **[RoStats](https://rostats.vercel.app)** | A powerful backend API for real-time data processing. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
+| **[Auataun](https://auataun.lovable.app)** | A fan website for the roblox community Auataun with 600k+ Members! | ![TypeScript](https://img.shields.io/badge/Python-3776AB?style=flat&logo=typescript) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
 | **[Unstable Universe - Fanmade - Website](https://unstablesmp.lovable.app)** | A modern fanmade dashboard built with React & TypeScript based on the popular minecraft series Unstable SMP | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) |
 
 > 🔎 _More repositories available on my [GitHub](https://github.com/sethsallies)!_
@@ -79,8 +79,7 @@ I'm a developer trying to building **efficient backend systems**, **polished fro
 
 <div align="center">
 
-<img height="180em" src="![GitHub Stats](https://brurhlvszgnfgrllvown.supabase.co/functions/v1/github-stats?username=sethsallies&theme=tokyonight)" />
-
+<img height="180em" src="![GitHub Stats](https://v0-readme-github.vercel.app/embed/user/Neuliko)](https://v0-readme-github.vercel.app/embed/user/Neuliko)
 </div>
 
 ---
