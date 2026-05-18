@@ -77,10 +77,7 @@ I'm a developer trying to building **efficient backend systems**, **polished fro
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="![GitHub Stats](https://v0-readme-github.vercel.app/embed/user/Neuliko)](https://v0-readme-github.vercel.app/embed/user/Neuliko)
-</div>
+[![GitHub Stats](https://v0-readme-github.vercel.app/embed/user/Neuliko)](https://v0-readme-github.vercel.app/embed/user/Neuliko)
 
 ---
 
